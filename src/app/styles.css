@@ -1,0 +1,34 @@
+/*
+.kk{
+  background-color: green;
+}
+
+
+#poggers{
+  background-color: red;
+  color: red;
+}
+
+.ion-text-justify{
+  background-color: brown;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+.baixo{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+
+}
+
+/*
+*{
+  font-family: 'Croissant One', cursive;
+
+} */
+
+.cont{
+ color: rgb(192, 26, 26);
+}
